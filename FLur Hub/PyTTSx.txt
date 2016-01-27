@@ -1,0 +1,9 @@
+Windows:
+	Get win32com
+	get 1.2 pyttsx
+
+Mac:
+    IDK
+
+Linux:
+      IDK
